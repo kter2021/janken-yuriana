@@ -1,0 +1,5 @@
+UnmaskForUGUI
+Copyright (c) mob-sakai
+
+Released under the MIT License.
+https://github.com/mob-sakai/UnmaskForUGUI
