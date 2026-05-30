@@ -3,3 +3,11 @@ Copyright (c) mob-sakai
 
 Released under the MIT License.
 https://github.com/mob-sakai/UnmaskForUGUI
+
+DaSiWa-WAN 2.2 I2V 14B TastySin v8 | Lightspeed | GGUF
+Created by darksidewalker
+
+Distributed via Civitai.
+https://civitai.com/models/2190659
+
+Base License: Apache License 2.0
